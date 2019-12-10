@@ -1,0 +1,81 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.carousel-main-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 2px;
+  background-color: #fff;
+}
+
+.card-main-body {
+  padding: 32px;
+  border-radius: 24px;
+  box-shadow: 5px 10px #eee;
+  border: 1px solid #aaa;
+}
+
+.card-time-div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.card-time-p {
+  font-size: 1.4rem;
+  margin: 0px;
+  padding: 0px;
+}
+
+.card-date-p {
+  font-size: 0.8rem;
+  margin: 0px;
+  padding: 0px;
+}
+
+.card-price-p {
+  font-weight: bold;
+  font-size: 1.7rem;
+}
+
+.card-price-mode-p {
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.card-center-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-mode-of-travel-p {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.card-travel-info-p {
+  font-size: 0.7rem;
+  color: #aaa;
+}
